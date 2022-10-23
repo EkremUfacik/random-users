@@ -1,0 +1,46 @@
+.info {
+    background-color: rgb(220, 232, 245);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}
+
+.img-div {
+    border-bottom: 2px solid black;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: rgba(166, 55, 55, 0.478);
+}
+
+.img {
+    transition: all 0.8s;
+    outline: 3px solid rgb(33, 3, 30);
+    border: 2px solid rgb(76, 16, 88);
+
+}
+
+.img:hover {
+    scale: 1.1;
+    outline: 4px solid rgb(76, 24, 69);
+    outline-offset: 4px;
+    -webkit-box-shadow: -1px 2px 40px -2px rgb(48, 8, 53);
+    -moz-box-shadow: -1px 2px 40px -2px rgb(60, 12, 55);
+    box-shadow: -1px 2px 40px -2px rgba(0, 0, 0, 1);
+}
+
+#p1 {
+    font-size: 14px;
+}
+
+#p2 {
+    font-size: 20px;
+}
+
+.logo {
+    font-size: 30px;
+    transition: scale 0.5s;
+}
+
+.logo:hover {
+    scale: 1.2;
+}
