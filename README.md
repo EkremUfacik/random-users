@@ -10,5 +10,5 @@
 - https://random-users-project.netlify.app/
 
 ## Screenshot
-![Uygulama Ekran Görüntüsü](src/asset/Random User App.png)
+![Uygulama Ekran Görüntüsü]("src/asset/Random User App.png")
 
