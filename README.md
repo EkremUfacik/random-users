@@ -11,5 +11,5 @@
 
 ## Screenshot
 
-<img src="src/asset/Random User App.png" alt="calculator-gif" style="zoom: 200%;" />
+<img src="src/asset/Random User App.png" alt="user" style="zoom: 200%;" />
 
