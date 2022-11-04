@@ -10,5 +10,6 @@
 - https://random-users-project.netlify.app/
 
 ## Screenshot
-![Uygulama Ekran Görüntüsü]("src/asset/Random User App.png")
+
+<img src="./src/" alt="calculator-gif" style="zoom: 200%;" />
 
